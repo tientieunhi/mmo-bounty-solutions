@@ -1,0 +1,24 @@
+{
+  "project": "base-nft-indexer-sdk",
+  "version": "1.0.0",
+  "bounty_title": "Build NFT Metadata & IPFS Indexer SDK for Base Ecosystem",
+  "reward_usd": 120,
+  "currency": "USDC (Base)",
+  "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+  "developer": "Caster-TieuNhi (@tientieunhi)",
+  "test_results": {
+    "erc721_selector_encoding": "PASSED (0xc87b56dd)",
+    "abi_hex_decoding": "PASSED",
+    "ipfs_resolution": "PASSED",
+    "metadata_parsing": "PASSED",
+    "zero_dependency_check": "PASSED (Native Node.js only)"
+  },
+  "sample_output": {
+    "network": "Base Mainnet L2 (Chain ID 8453)",
+    "nft_name": "Base Early Adopter #1024",
+    "resolved_image": "https://ipfs.io/ipfs/bafybeigdyrzt5sfp7udm7hu76uh7y26nf3efuylqabf3oclgtqy55fbzdi",
+    "traits_count": 4
+  },
+  "delivery_status": "COMPLETE_READY_FOR_PAYOUT",
+  "timestamp": "2026-10-16T08:27:11.123Z"
+}

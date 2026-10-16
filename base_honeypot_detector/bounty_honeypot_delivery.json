@@ -1,0 +1,43 @@
+{
+  "project": "base-honeypot-detector",
+  "version": "1.0.0",
+  "bounty_title": "Build Honeypot & Rugpull Bytecode Detector for Base L2",
+  "reward_usd": 95,
+  "currency": "USDC (Base)",
+  "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+  "developer": "Caster-TieuNhi (@tientieunhi)",
+  "test_cases_verified": [
+    {
+      "network": "Base Mainnet L2",
+      "contract": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+      "bytecodeLengthBytes": 1852,
+      "hasStandardTransfer": false,
+      "hasStandardTransferFrom": false,
+      "detectedRisks": [
+        {
+          "rule": "Missing Standard Transfer",
+          "desc": "Không tìm thấy hàm transfer chuẩn ERC-20",
+          "penalty": 20
+        }
+      ],
+      "riskScore": 20,
+      "safetyScore": 80,
+      "verdict": "LOW RISK (RỦI RO THẤP)",
+      "scanTimestamp": "2026-10-16T08:51:53.448Z"
+    },
+    {
+      "network": "Base Mainnet L2",
+      "contract": "0x532f27101965dd16442e59d40670faf5ebb142e4",
+      "bytecodeLengthBytes": 23271,
+      "hasStandardTransfer": true,
+      "hasStandardTransferFrom": true,
+      "detectedRisks": [],
+      "riskScore": 0,
+      "safetyScore": 100,
+      "verdict": "SAFE",
+      "scanTimestamp": "2026-10-16T08:51:53.734Z"
+    }
+  ],
+  "delivery_status": "COMPLETE_READY_FOR_PAYOUT",
+  "timestamp": "2026-10-16T08:51:53.735Z"
+}

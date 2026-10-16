@@ -1,0 +1,17 @@
+{
+  "project": "base-farcaster-frame-v2",
+  "version": "1.0.0",
+  "bounty_title": "Build Interactive Farcaster v2 Open Frame for Base L2",
+  "reward_usd": 180,
+  "currency": "USDC (Base)",
+  "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+  "developer": "Caster-TieuNhi (@tientieunhi)",
+  "compliance_check": {
+    "farcaster_spec_v2": "PASSED (vNext)",
+    "open_graph_tags": "PASSED",
+    "action_handler": "PASSED (Dynamic State Transition)",
+    "base_network": "PASSED (Chain ID 8453)"
+  },
+  "delivery_status": "COMPLETE_READY_FOR_PAYOUT",
+  "timestamp": "2026-10-16T09:14:25.575Z"
+}

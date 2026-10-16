@@ -1,0 +1,9 @@
+{
+  "name": "base-farcaster-frame-v2",
+  "version": "1.0.0",
+  "description": "Interactive Farcaster v2 Open Frame for Base L2 On-chain Actions & Balance Checking",
+  "main": "frame_server.js",
+  "author": "Caster-TieuNhi (@tientieunhi)",
+  "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+  "license": "MIT"
+}

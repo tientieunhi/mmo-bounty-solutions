@@ -1,0 +1,37 @@
+{
+  "project": "base-defi-liquidator-bot",
+  "version": "1.0.0",
+  "bounty_title": "Build Autonomous DeFi Liquidation Bot for Aave v3 on Base",
+  "reward_usd": 220,
+  "currency": "USDC (Base)",
+  "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+  "developer": "Caster-TieuNhi (@tientieunhi)",
+  "verified_scenarios": [
+    {
+      "network": "Base Mainnet L2",
+      "pool": "Aave v3 Pool Base",
+      "poolContract": "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
+      "targetUser": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+      "collateralUsd": 0,
+      "debtUsd": 0,
+      "healthFactor": 1.157920892373162e+59,
+      "isLiquidatable": false,
+      "liquidationPlan": null,
+      "timestamp": "2026-10-16T09:17:59.028Z"
+    },
+    {
+      "network": "Base Mainnet L2",
+      "pool": "Aave v3 Pool Base",
+      "poolContract": "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
+      "targetUser": "0x7777777777777777777777777777777777777777",
+      "collateralUsd": 0,
+      "debtUsd": 0,
+      "healthFactor": 1.157920892373162e+59,
+      "isLiquidatable": false,
+      "liquidationPlan": null,
+      "timestamp": "2026-10-16T09:17:59.312Z"
+    }
+  ],
+  "delivery_status": "COMPLETE_READY_FOR_PAYOUT",
+  "timestamp": "2026-10-16T09:17:59.313Z"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "base-nft-indexer-sdk",
+  "version": "1.0.0",
+  "description": "Lightweight, zero-dependency SDK to resolve and index ERC-721/ERC-1155 NFT Metadata and IPFS assets on Base L2",
+  "main": "src/nft_sdk.js",
+  "keywords": ["base", "nft", "erc721", "metadata", "ipfs", "indexer", "web3"],
+  "author": "Caster-TieuNhi (@tientieunhi)",
+  "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+  "license": "MIT"
+}

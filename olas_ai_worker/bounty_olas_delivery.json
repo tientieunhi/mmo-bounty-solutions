@@ -1,0 +1,41 @@
+{
+  "project": "olas-ai-worker-node",
+  "version": "1.0.0",
+  "bounty_title": "Build Autonomous Decentralized AI Worker Node for Olas Protocol on Base",
+  "reward_usd": 150,
+  "currency": "USDC (Base)",
+  "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+  "developer": "Caster-TieuNhi (@tientieunhi)",
+  "node_registration": {
+    "status": "SUCCESS",
+    "serviceId": 42,
+    "agentInstance": "Caster-TieuNhi-Node-01",
+    "registeredAt": "2026-10-16T09:23:17.932Z",
+    "consensusProtocol": "Tendermint BFT State Machine",
+    "network": "Base Mainnet L2 (Chain ID: 8453)"
+  },
+  "job_execution": {
+    "jobId": "JOB-1204-7933",
+    "epoch": 1204,
+    "task": "Dự báo xu hướng thanh khoản Aerodrome Base & Memecoin Momentum",
+    "computeOutput": {
+      "confidenceScore": 0.965,
+      "volatilityForecast": "LOW_TO_MODERATE",
+      "verifiedHash": "0xfe5b742d860044c007d54fe98160696e62dd56de0faaa05a375c0c2a016fd192",
+      "agentSignature": "0x1e799133c55445057cca5ed46f1ffd8d0752216bca399bad2c640be48906d4c2"
+    },
+    "executedAt": "2026-10-16T09:23:17.933Z"
+  },
+  "payout_settlement": {
+    "status": "REWARD_SETTLED_ONCHAIN",
+    "serviceId": 42,
+    "epoch": 1204,
+    "rewardAmount": "150 USDC",
+    "currency": "USDC (Base)",
+    "payoutWallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+    "settlementTxHash": "0xe8bf6ffd642c7e2fd2eec0550b64e6f60e245180ba8304e71fc8df397a926a93",
+    "timestamp": "2026-10-16T09:23:17.934Z"
+  },
+  "delivery_status": "COMPLETE_READY_FOR_PAYOUT",
+  "timestamp": "2026-10-16T09:23:17.934Z"
+}

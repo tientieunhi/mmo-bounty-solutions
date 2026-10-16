@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "bot_name": "BaseMemecoinAlertBot",
+    "version": "1.0.0",
+    "bounty_title": "Build automated price alert bot for Base memecoins via Telegram",
+    "reward_usd": 75,
+    "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+    "test_timestamp": "2026-10-16T08:17:31.157Z"
+  },
+  "tokens_scanned": [
+    {
+      "symbol": "BRETT",
+      "name": "Brett",
+      "dex": "UNISWAP",
+      "pair": "BRETT/WETH",
+      "priceUsd": 0.004938,
+      "liquidityUsd": 1175634.83,
+      "fdvUsd": 48936426,
+      "volume24hUsd": 2962.57,
+      "change5m": 0,
+      "change1h": 0.32,
+      "change24h": 5.38,
+      "url": "https://dexscreener.com/base/0xba3f945812a83471d709bce9c3ca699a19fb46f7"
+    },
+    {
+      "symbol": "DEGEN",
+      "name": "Degen",
+      "dex": "UNISWAP",
+      "pair": "DEGEN/WETH",
+      "priceUsd": 0.0009602,
+      "liquidityUsd": 779330.07,
+      "fdvUsd": 34569878,
+      "volume24hUsd": 3671.65,
+      "change5m": 0,
+      "change1h": 0,
+      "change24h": 1.5,
+      "url": "https://dexscreener.com/base/0x0ca6485b7e9cf814a3fd09d81672b07323535b64"
+    },
+    {
+      "symbol": "TOSHI",
+      "name": "Toshi",
+      "dex": "UNISWAP",
+      "pair": "TOSHI/WETH",
+      "priceUsd": 0.0001107,
+      "liquidityUsd": 1063307.33,
+      "fdvUsd": 46605458,
+      "volume24hUsd": 27985.15,
+      "change5m": 0,
+      "change1h": -0.33,
+      "change24h": 8.44,
+      "url": "https://dexscreener.com/base/0x4b0aaf3ebb163dd45f663b38b6d93f6093ebc2d3"
+    }
+  ],
+  "alerts_generated_count": 3,
+  "status": "TEST_PASSED_READY_FOR_DEPLOYMENT"
+}

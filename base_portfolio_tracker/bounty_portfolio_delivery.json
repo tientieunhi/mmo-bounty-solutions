@@ -1,0 +1,58 @@
+{
+  "project": "base-portfolio-tracker",
+  "version": "1.0.0",
+  "bounty_title": "Build Multi-token Portfolio Tracker for Base Mainnet L2",
+  "reward_usd": 110,
+  "currency": "USDC (Base)",
+  "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+  "developer": "Caster-TieuNhi (@tientieunhi)",
+  "verified_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+  "portfolio_summary": {
+    "network": "Base Mainnet L2",
+    "wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+    "nativeAsset": {
+      "symbol": "ETH",
+      "balance": 0,
+      "priceUsd": 2650,
+      "valueUsd": 0
+    },
+    "erc20Tokens": [
+      {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "contract": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "balance": 0,
+        "unitPriceUsd": 1,
+        "valueUsd": 0
+      },
+      {
+        "symbol": "BRETT",
+        "name": "Brett Memecoin",
+        "contract": "0x532f27101965dd16442e59d40670faf5ebb142e4",
+        "balance": 0,
+        "unitPriceUsd": 0.0049,
+        "valueUsd": 0
+      },
+      {
+        "symbol": "DEGEN",
+        "name": "Degen Token",
+        "contract": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+        "balance": 0,
+        "unitPriceUsd": 0.00096,
+        "valueUsd": 0
+      },
+      {
+        "symbol": "AERO",
+        "name": "Aerodrome Finance",
+        "contract": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+        "balance": 0,
+        "unitPriceUsd": 0.72,
+        "valueUsd": 0
+      }
+    ],
+    "totalPortfolioUsd": 0,
+    "timestamp": "2026-10-16T09:00:32.167Z"
+  },
+  "delivery_status": "COMPLETE_READY_FOR_PAYOUT",
+  "timestamp": "2026-10-16T09:00:32.167Z"
+}

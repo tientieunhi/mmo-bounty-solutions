@@ -1,0 +1,9 @@
+{
+  "name": "base-portfolio-tracker",
+  "version": "1.0.0",
+  "description": "Real-time Multi-Token Portfolio & Balance Tracker for Base Mainnet L2",
+  "main": "portfolio.js",
+  "author": "Caster-TieuNhi (@tientieunhi)",
+  "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+  "license": "MIT"
+}

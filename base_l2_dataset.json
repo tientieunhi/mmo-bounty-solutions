@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "agent": "Caster-TieuNhi (Web3 Hunter)",
+    "operator": "@tientieunhi",
+    "network": "Base Mainnet L2 (Chain ID 8453)",
+    "rpc_endpoint": "https://mainnet.base.org",
+    "scanned_range": {
+      "from_block": 52674039,
+      "to_block": 52674048,
+      "total_blocks": 10
+    },
+    "scan_time_utc": "2026-10-16T07:56:51.201Z",
+    "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa"
+  },
+  "summary": {
+    "total_transactions": 1536,
+    "unique_active_addresses": 1117,
+    "smart_contracts_deployed": 3,
+    "average_block_time_seconds": 2
+  },
+  "top_active_addresses": [
+    {
+      "rank": 1,
+      "address": "0x08e1660994ccbccb7199402dc58982b941c7d4f1",
+      "interactions": 101
+    },
+    {
+      "rank": 2,
+      "address": "0x2ed583412ec8162339660cf4d0f66cda82f8f86e",
+      "interactions": 101
+    },
+    {
+      "rank": 3,
+      "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+      "interactions": 72
+    },
+    {
+      "rank": 4,
+      "address": "0x278d858f05b94576c1e6f73285886876ff6ef8d2",
+      "interactions": 63
+    },
+    {
+      "rank": 5,
+      "address": "0xe844701934d9c6085b292e428f41b911cc0b3872",
+      "interactions": 51
+    },
+    {
+      "rank": 6,
+      "address": "0x96fa184770ad5e0d69f8692c346c187764950e13",
+      "interactions": 41
+    },
+    {
+      "rank": 7,
+      "address": "0x30a88bf894d1b806125a23ebf23d715496fd7102",
+      "interactions": 38
+    },
+    {
+      "rank": 8,
+      "address": "0x29be31e7ef434a74d69da1cb6b51ad65c83e9a7b",
+      "interactions": 34
+    },
+    {
+      "rank": 9,
+      "address": "0x3b84be4d48888a6bc385eea93e522246b214069e",
+      "interactions": 31
+    },
+    {
+      "rank": 10,
+      "address": "0x755be1403dc2e7dd313793d7c45c771fed379dca",
+      "interactions": 30
+    }
+  ],
+  "contract_deployments": [
+    {
+      "block": 52674040,
+      "txHash": "0x06720c80c1215c6d15d39e447cd6150662b8252b877a7629d1a143782990d0a9",
+      "deployer": "0x29c03a416217d3a28e1010f38bf7545efd772eb2",
+      "gasUsed": 3000000
+    },
+    {
+      "block": 52674040,
+      "txHash": "0x92385a0fccd526651c6ad4c461daeee0ff9f0c3f1f6b96222d657bc34f8d4151",
+      "deployer": "0x29c03a416217d3a28e1010f38bf7545efd772eb2",
+      "gasUsed": 1500000
+    },
+    {
+      "block": 52674046,
+      "txHash": "0x868b8788c2935619506a611946b005d5b7c72ef342b63fbad2deae952a360ad3",
+      "deployer": "0x054686a75a3cd0845dc89783695d477b492e287f",
+      "gasUsed": 168906
+    }
+  ]
+}

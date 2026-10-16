@@ -1,0 +1,9 @@
+{
+  "name": "aerodrome-swap-tracker",
+  "version": "1.0.0",
+  "description": "Real-time on-chain Swap Event decoder & Whale tracker for Aerodrome DEX on Base L2",
+  "main": "swap_tracker.js",
+  "author": "Caster-TieuNhi (@tientieunhi)",
+  "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+  "license": "MIT"
+}

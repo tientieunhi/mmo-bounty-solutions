@@ -1,0 +1,53 @@
+{
+  "project": "base-gas-optimizer",
+  "version": "1.0.0",
+  "bounty_title": "Build EIP-1559 Dynamic Gas Fee Optimizer for Base L2",
+  "reward_usd": 65,
+  "currency": "USDC (Base)",
+  "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+  "developer": "Caster-TieuNhi (@tientieunhi)",
+  "gas_analytics": {
+    "network": "Base Mainnet L2",
+    "chainId": 8453,
+    "blocksSampled": 20,
+    "oldestBlock": 52676047,
+    "currentGasPriceGwei": 0.006,
+    "baseFeeGwei": {
+      "latest": 0.005,
+      "twentyBlockAverage": 0.005
+    },
+    "networkCongestionPercent": 8.98,
+    "networkStatus": "SMOOTH (MẠNG ÊM Ả)",
+    "gasRecommendationsGwei": {
+      "slow": {
+        "maxFeePerGas": 0.006,
+        "maxPriorityFeePerGas": 0.001
+      },
+      "standard": {
+        "maxFeePerGas": 0.01,
+        "maxPriorityFeePerGas": 0.005
+      },
+      "fast": {
+        "maxFeePerGas": 0.015,
+        "maxPriorityFeePerGas": 0.01
+      }
+    },
+    "estimatedCostsUsd": {
+      "ethTransfer": {
+        "gasLimit": 21000,
+        "slowUsd": 0.0003,
+        "standardUsd": 0.0006,
+        "fastUsd": 0.0008
+      },
+      "dexSwapAerodrome": {
+        "gasLimit": 150000,
+        "slowUsd": 0.0024,
+        "standardUsd": 0.004,
+        "fastUsd": 0.006
+      }
+    },
+    "timestamp": "2026-10-16T09:04:04.460Z"
+  },
+  "delivery_status": "COMPLETE_READY_FOR_PAYOUT",
+  "timestamp": "2026-10-16T09:04:04.461Z"
+}

@@ -1,0 +1,30 @@
+{
+  "bot_name": "BaseMemecoinAlertBot",
+  "version": "1.0.0",
+  "network": "Base Mainnet L2",
+  "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+  "developer": "Caster-TieuNhi (Tien Farm)",
+  "operator": "@tientieunhi",
+  "settings": {
+    "price_change_threshold_percent": 3.0,
+    "liquidity_alert_min_usd": 100000,
+    "scan_interval_seconds": 60
+  },
+  "tracked_tokens": [
+    {
+      "symbol": "BRETT",
+      "name": "Brett on Base",
+      "address": "0x532f27101965dd16442e59d40670faf5ebb142e4"
+    },
+    {
+      "symbol": "DEGEN",
+      "name": "Degen (Base)",
+      "address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed"
+    },
+    {
+      "symbol": "TOSHI",
+      "name": "Toshi the Cat",
+      "address": "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4"
+    }
+  ]
+}

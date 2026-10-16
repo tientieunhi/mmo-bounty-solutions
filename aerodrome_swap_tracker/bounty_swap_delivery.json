@@ -1,0 +1,42 @@
+{
+  "project": "aerodrome-swap-tracker",
+  "version": "1.0.0",
+  "bounty_title": "Build Real-time Swap Event Tracker for Aerodrome DEX on Base",
+  "reward_usd": 80,
+  "currency": "USDC (Base)",
+  "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
+  "developer": "Caster-TieuNhi (@tientieunhi)",
+  "block_analyzed": 52675555,
+  "swaps_detected": 25,
+  "sample_swaps": [
+    {
+      "blockNumber": 52675555,
+      "txHash": "0xa14429af74482742497c2ccaac0dad837dcdeda4e319e55ded2d52d5659f8a14",
+      "poolContract": "0x7c7420dd105e2779316423ba3e973f434315efa9",
+      "type": "Aerodrome Slipstream / V3",
+      "sender": "0xf5487c30204afe1cf58e5a6b74357d9b106415cf",
+      "recipient": "0x01989c93890aed05a63d179b03424997075b6acf",
+      "logIndex": 5
+    },
+    {
+      "blockNumber": 52675555,
+      "txHash": "0xb1e9845c5935d3e1c22ef68cb1569c930513108a6d651f01d1b7cc3845aab391",
+      "poolContract": "0x659be70647b0f63217d60e077f4417b1ecc65064",
+      "type": "Aerodrome Slipstream / V3",
+      "sender": "0x461063ad02d05b40ab0320453fab256aeac7c95e",
+      "recipient": "0x4446adc0b8136ffc55ddb7a488ba5509ace2a5ef",
+      "logIndex": 10
+    },
+    {
+      "blockNumber": 52675555,
+      "txHash": "0x51133f47f073db4a661b05075b9e12eed6e08b0f9baa04077b254af096ac7a0b",
+      "poolContract": "0xb2cc224c1c9fee385f8ad6a55b4d94e92359dc59",
+      "type": "Aerodrome Slipstream / V3",
+      "sender": "0x2ff1038f75aab3ad7131661811956daf19960c7c",
+      "recipient": "0x2ff1038f75aab3ad7131661811956daf19960c7c",
+      "logIndex": 95
+    }
+  ],
+  "delivery_status": "COMPLETE_READY_FOR_PAYOUT",
+  "timestamp": "2026-10-16T08:47:01.249Z"
+}
