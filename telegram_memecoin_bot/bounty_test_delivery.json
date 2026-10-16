@@ -5,7 +5,7 @@
     "bounty_title": "Build automated price alert bot for Base memecoins via Telegram",
     "reward_usd": 75,
     "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
-    "test_timestamp": "2026-10-16T08:17:31.157Z"
+    "test_timestamp": "2026-10-16T14:07:00.446Z"
   },
   "tokens_scanned": [
     {
@@ -13,13 +13,13 @@
       "name": "Brett",
       "dex": "UNISWAP",
       "pair": "BRETT/WETH",
-      "priceUsd": 0.004938,
-      "liquidityUsd": 1175634.83,
-      "fdvUsd": 48936426,
-      "volume24hUsd": 2962.57,
-      "change5m": 0,
-      "change1h": 0.32,
-      "change24h": 5.38,
+      "priceUsd": 0.004845,
+      "liquidityUsd": 1162993.32,
+      "fdvUsd": 48019262,
+      "volume24hUsd": 9990.76,
+      "change5m": 0.17,
+      "change1h": -0.16,
+      "change24h": 3.81,
       "url": "https://dexscreener.com/base/0xba3f945812a83471d709bce9c3ca699a19fb46f7"
     },
     {
@@ -41,13 +41,13 @@
       "name": "Toshi",
       "dex": "UNISWAP",
       "pair": "TOSHI/WETH",
-      "priceUsd": 0.0001107,
-      "liquidityUsd": 1063307.33,
-      "fdvUsd": 46605458,
-      "volume24hUsd": 27985.15,
+      "priceUsd": 0.0001099,
+      "liquidityUsd": 1061284.49,
+      "fdvUsd": 46242290,
+      "volume24hUsd": 32207.41,
       "change5m": 0,
-      "change1h": -0.33,
-      "change24h": 8.44,
+      "change1h": 0,
+      "change24h": 6.02,
       "url": "https://dexscreener.com/base/0x4b0aaf3ebb163dd45f663b38b6d93f6093ebc2d3"
     }
   ],
