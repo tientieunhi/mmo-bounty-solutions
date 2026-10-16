@@ -6,37 +6,37 @@
   "currency": "USDC (Base)",
   "payout_wallet": "0x9858ffeb327ecc91028d7d8a43ef648991574daa",
   "developer": "Caster-TieuNhi (@tientieunhi)",
-  "block_analyzed": 52675555,
-  "swaps_detected": 25,
+  "block_analyzed": 52685978,
+  "swaps_detected": 147,
   "sample_swaps": [
     {
-      "blockNumber": 52675555,
-      "txHash": "0xa14429af74482742497c2ccaac0dad837dcdeda4e319e55ded2d52d5659f8a14",
-      "poolContract": "0x7c7420dd105e2779316423ba3e973f434315efa9",
+      "blockNumber": 52685978,
+      "txHash": "0x842c97a3e758d7b17b7f49994ef58e5f8468e5aa28e038309548cba32dc26b0f",
+      "poolContract": "0xb2cc224c1c9fee385f8ad6a55b4d94e92359dc59",
       "type": "Aerodrome Slipstream / V3",
-      "sender": "0xf5487c30204afe1cf58e5a6b74357d9b106415cf",
-      "recipient": "0x01989c93890aed05a63d179b03424997075b6acf",
+      "sender": "0x51c72848c68a965f66fa7a88855f9f7784502a7f",
+      "recipient": "0x51c72848c68a965f66fa7a88855f9f7784502a7f",
+      "logIndex": 2
+    },
+    {
+      "blockNumber": 52685978,
+      "txHash": "0x6781a2c56c845de244b010ebb87e1d263faa27354b224a4b7f40a038ff9ce77b",
+      "poolContract": "0x160d7e9d948b16c163332a277b393c288408eb12",
+      "type": "Aerodrome Slipstream / V3",
+      "sender": "0x83d55acdc72027ed339d267eebaf9a41e47490d5",
+      "recipient": "0x51c72848c68a965f66fa7a88855f9f7784502a7f",
       "logIndex": 5
     },
     {
-      "blockNumber": 52675555,
-      "txHash": "0xb1e9845c5935d3e1c22ef68cb1569c930513108a6d651f01d1b7cc3845aab391",
-      "poolContract": "0x659be70647b0f63217d60e077f4417b1ecc65064",
+      "blockNumber": 52685978,
+      "txHash": "0x8f76936b1fccc7f32b1770d0c332746a0fc9d5ea29d2d9048df1bdaf7aa2ffeb",
+      "poolContract": "0x2df380544b88adb3ad0a94100dcc45fd705aae2d",
       "type": "Aerodrome Slipstream / V3",
-      "sender": "0x461063ad02d05b40ab0320453fab256aeac7c95e",
-      "recipient": "0x4446adc0b8136ffc55ddb7a488ba5509ace2a5ef",
-      "logIndex": 10
-    },
-    {
-      "blockNumber": 52675555,
-      "txHash": "0x51133f47f073db4a661b05075b9e12eed6e08b0f9baa04077b254af096ac7a0b",
-      "poolContract": "0xb2cc224c1c9fee385f8ad6a55b4d94e92359dc59",
-      "type": "Aerodrome Slipstream / V3",
-      "sender": "0x2ff1038f75aab3ad7131661811956daf19960c7c",
-      "recipient": "0x2ff1038f75aab3ad7131661811956daf19960c7c",
-      "logIndex": 95
+      "sender": "0x6ff5693b99212da76ad316178a184ab56d299b43",
+      "recipient": "0x7924b7900c89275076213461e342e70b21fce98c",
+      "logIndex": 104
     }
   ],
   "delivery_status": "COMPLETE_READY_FOR_PAYOUT",
-  "timestamp": "2026-10-16T08:47:01.249Z"
+  "timestamp": "2026-10-16T14:34:28.469Z"
 }

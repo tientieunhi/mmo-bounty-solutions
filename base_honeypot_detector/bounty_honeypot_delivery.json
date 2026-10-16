@@ -23,7 +23,7 @@
       "riskScore": 20,
       "safetyScore": 80,
       "verdict": "LOW RISK (RỦI RO THẤP)",
-      "scanTimestamp": "2026-10-16T08:51:53.448Z"
+      "scanTimestamp": "2026-10-16T14:36:06.954Z"
     },
     {
       "network": "Base Mainnet L2",
@@ -35,9 +35,9 @@
       "riskScore": 0,
       "safetyScore": 100,
       "verdict": "SAFE",
-      "scanTimestamp": "2026-10-16T08:51:53.734Z"
+      "scanTimestamp": "2026-10-16T14:36:07.279Z"
     }
   ],
   "delivery_status": "COMPLETE_READY_FOR_PAYOUT",
-  "timestamp": "2026-10-16T08:51:53.735Z"
+  "timestamp": "2026-10-16T14:36:07.279Z"
 }
