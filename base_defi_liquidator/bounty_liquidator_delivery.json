@@ -17,7 +17,7 @@
       "healthFactor": 1.157920892373162e+59,
       "isLiquidatable": false,
       "liquidationPlan": null,
-      "timestamp": "2026-10-16T09:17:59.028Z"
+      "timestamp": "2026-10-16T14:07:20.078Z"
     },
     {
       "network": "Base Mainnet L2",
@@ -29,9 +29,9 @@
       "healthFactor": 1.157920892373162e+59,
       "isLiquidatable": false,
       "liquidationPlan": null,
-      "timestamp": "2026-10-16T09:17:59.312Z"
+      "timestamp": "2026-10-16T14:07:20.363Z"
     }
   ],
   "delivery_status": "COMPLETE_READY_FOR_PAYOUT",
-  "timestamp": "2026-10-16T09:17:59.313Z"
+  "timestamp": "2026-10-16T14:07:20.364Z"
 }
