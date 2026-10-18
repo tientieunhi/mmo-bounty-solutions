@@ -52,5 +52,14 @@
     }
   ],
   "alerts_generated_count": 3,
-  "status": "TEST_PASSED_READY_FOR_DEPLOYMENT"
+  "status": "TEST_PASSED_READY_FOR_DEPLOYMENT",
+  "delivery_status": "SUBMITTED_WAITING_PAYOUT",
+  "submitted_at": "2026-10-18T01:27:09.241Z",
+  "github_portfolio_url": "https://github.com/tientieunhi/mmo-bounty-solutions/tree/main/telegram_memecoin_bot",
+  "operator_approval": {
+    "approved_by": "anh Tiến (@tientieunhi)",
+    "aq_inspection_score": 10,
+    "verdict": "PASSED_10_10",
+    "approved_at": "2026-10-18T01:27:09.241Z"
+  }
 }

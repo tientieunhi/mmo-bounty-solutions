@@ -37,6 +37,14 @@
       "logIndex": 104
     }
   ],
-  "delivery_status": "COMPLETE_READY_FOR_PAYOUT",
-  "timestamp": "2026-10-16T14:34:28.469Z"
+  "delivery_status": "SUBMITTED_WAITING_PAYOUT",
+  "timestamp": "2026-10-16T14:34:28.469Z",
+  "submitted_at": "2026-10-18T01:27:09.241Z",
+  "github_portfolio_url": "https://github.com/tientieunhi/mmo-bounty-solutions/tree/main/aerodrome_swap_tracker",
+  "operator_approval": {
+    "approved_by": "anh Tiến (@tientieunhi)",
+    "aq_inspection_score": 10,
+    "verdict": "PASSED_10_10",
+    "approved_at": "2026-10-18T01:27:09.241Z"
+  }
 }

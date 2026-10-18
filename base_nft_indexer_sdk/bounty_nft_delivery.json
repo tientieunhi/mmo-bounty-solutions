@@ -19,6 +19,14 @@
     "resolved_image": "https://ipfs.io/ipfs/bafybeigdyrzt5sfp7udm7hu76uh7y26nf3efuylqabf3oclgtqy55fbzdi",
     "traits_count": 4
   },
-  "delivery_status": "COMPLETE_READY_FOR_PAYOUT",
-  "timestamp": "2026-10-16T14:34:17.988Z"
+  "delivery_status": "SUBMITTED_WAITING_PAYOUT",
+  "timestamp": "2026-10-16T14:34:17.988Z",
+  "submitted_at": "2026-10-18T01:27:09.241Z",
+  "github_portfolio_url": "https://github.com/tientieunhi/mmo-bounty-solutions/tree/main/base_nft_indexer_sdk",
+  "operator_approval": {
+    "approved_by": "anh Tiến (@tientieunhi)",
+    "aq_inspection_score": 10,
+    "verdict": "PASSED_10_10",
+    "approved_at": "2026-10-18T01:27:09.241Z"
+  }
 }

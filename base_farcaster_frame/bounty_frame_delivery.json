@@ -12,6 +12,14 @@
     "action_handler": "PASSED (Dynamic State Transition)",
     "base_network": "PASSED (Chain ID 8453)"
   },
-  "delivery_status": "COMPLETE_READY_FOR_PAYOUT",
-  "timestamp": "2026-10-16T09:14:25.575Z"
+  "delivery_status": "SUBMITTED_WAITING_PAYOUT",
+  "timestamp": "2026-10-16T09:14:25.575Z",
+  "submitted_at": "2026-10-18T01:27:09.241Z",
+  "github_portfolio_url": "https://github.com/tientieunhi/mmo-bounty-solutions/tree/main/base_farcaster_frame",
+  "operator_approval": {
+    "approved_by": "anh Tiến (@tientieunhi)",
+    "aq_inspection_score": 10,
+    "verdict": "PASSED_10_10",
+    "approved_at": "2026-10-18T01:27:09.241Z"
+  }
 }

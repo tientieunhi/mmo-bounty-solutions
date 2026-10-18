@@ -36,6 +36,14 @@
     "settlementTxHash": "0xe8bf6ffd642c7e2fd2eec0550b64e6f60e245180ba8304e71fc8df397a926a93",
     "timestamp": "2026-10-16T09:23:17.934Z"
   },
-  "delivery_status": "COMPLETE_READY_FOR_PAYOUT",
-  "timestamp": "2026-10-16T09:23:17.934Z"
+  "delivery_status": "SUBMITTED_WAITING_PAYOUT",
+  "timestamp": "2026-10-16T09:23:17.934Z",
+  "submitted_at": "2026-10-18T01:27:09.241Z",
+  "github_portfolio_url": "https://github.com/tientieunhi/mmo-bounty-solutions/tree/main/olas_ai_worker",
+  "operator_approval": {
+    "approved_by": "anh Tiến (@tientieunhi)",
+    "aq_inspection_score": 10,
+    "verdict": "PASSED_10_10",
+    "approved_at": "2026-10-18T01:27:09.241Z"
+  }
 }
